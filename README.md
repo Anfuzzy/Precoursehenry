@@ -1,1 +1,1 @@
-Este es una prueba de como crear un repositorio y poder clonarlo de forma local 
+Este es una prueba de como pasar un repositorio de manera remota de git hub a mi computadora de manera local 
